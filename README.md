@@ -2,7 +2,7 @@
 
 A new Flutter project.
 # news App can get you all news you need like:-
- local news ,
+ local news ;
  business news ,
  sports news,
  science news,
